@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.clickme{
+    background-color: black;
+    color: white;
+}
+
+.noclickme{
+    background-color: yellow;
+}
+
+.clickme,
+.noclickme{
+    justify-content: center;
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+
+}
